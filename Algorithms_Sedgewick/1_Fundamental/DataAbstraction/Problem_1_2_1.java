@@ -2,7 +2,7 @@ package DataAbstraction;
 
 import edu.princeton.cs.algs4.*;
 
-public class Ex_1_2_1 {
+public class Problem_1_2_1 {
     public static void main(String[] args) {
         final int n = Integer.parseInt(args[0]);
 

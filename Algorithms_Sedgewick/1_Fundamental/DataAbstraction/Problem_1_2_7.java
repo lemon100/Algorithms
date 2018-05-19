@@ -2,7 +2,7 @@ package DataAbstraction;
 
 import edu.princeton.cs.algs4.StdOut;
 
-public class Ex_1_2_7 {
+public class Problem_1_2_7 {
     public static void main(String[] args) {
         StdOut.print(mystery("Algorithms"));
     }

@@ -3,7 +3,7 @@ package DataAbstraction;
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 
-public class Ex_1_2_6 {
+public class Problem_1_2_6 {
     public static void main(String[] args) {
         String s = StdIn.readString();
         String t = StdIn.readString();

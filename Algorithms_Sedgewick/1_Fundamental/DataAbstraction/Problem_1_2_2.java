@@ -2,7 +2,7 @@ package DataAbstraction;
 
 import edu.princeton.cs.algs4.*;
 
-public class Ex_1_2_2 {
+public class Problem_1_2_2 {
     public static void main(String[] args) {
         final int N = Integer.parseInt(args[0]);
         Interval1D[] intervals = new Interval1D[N];

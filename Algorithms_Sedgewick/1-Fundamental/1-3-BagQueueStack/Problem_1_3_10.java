@@ -13,12 +13,13 @@ public class Problem_1_3_10 {
     }
 
     // solution
-    // 1. ( : push to stack
-    // 2. ) : pop the stack until get (
-    // 3. operators :
+    // 1. meet ( : push to stack
+    // 2. meet ) : pop the stack until get (
+    // 3. meet operators :
     //      I. pop the stack until get the operator whose priority high that it
     //      II. push the operator
-    // 4. (after loop) pop all operators which left in stack
+    // 5. meet numbers : push to stack
+    // 6. (after loop) pop all operators which left in stack
     private static String infixToPostFix(String str) {
         Stack<String> operators = new Stack<>();
         StringBuilder output = new StringBuilder();

@@ -1,7 +1,7 @@
 import edu.princeton.cs.algs4.Stack;
 import edu.princeton.cs.algs4.StdOut;
 
-public class Problem_1_3_9 {
+public class Problem_1_3_09 {
     public static void main(String[] args) {
         String[] strings = new String[] {
                 "1 + 2 ) * 3 - 4 ) * 5 - 6 ) ) )",

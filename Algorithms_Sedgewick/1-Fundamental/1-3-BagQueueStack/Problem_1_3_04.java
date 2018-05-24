@@ -3,7 +3,7 @@ import edu.princeton.cs.algs4.StdOut;
 
 import java.io.*;
 
-public class Problem_1_3_4 {
+public class Problem_1_3_04 {
     public static void main(String[] args) throws IOException {
         StdOut.println(parentheses("[()]{}{[()()]()}"));
         StdOut.println(parentheses("[(])"));

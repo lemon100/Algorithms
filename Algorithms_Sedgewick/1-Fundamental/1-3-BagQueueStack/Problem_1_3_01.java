@@ -1,7 +1,7 @@
 import edu.princeton.cs.algs4.StdOut;
 import org.junit.Test;
 
-public class Problem_1_3_1 {
+public class Problem_1_3_01 {
     @Test
     public void testFixedCapacityStack() {
         int cap = 10;
